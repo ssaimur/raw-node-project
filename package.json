@@ -1,0 +1,14 @@
+{
+  "name": "sumit-raw-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "saimur",
+  "license": "no license",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
